@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{4BB63607-EAED-47C2-AE79-CE1AC2A5FADC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeraOdev", "PeraOdev\PeraOdev.csproj", "{43019C9D-658A-461D-8734-3B83D0B815E9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{93A8F90D-6753-4BDF-9FF3-54EAA0B856A4}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{4BB63607-EAED-47C2-AE79-CE1AC2A5FADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BB63607-EAED-47C2-AE79-CE1AC2A5FADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BB63607-EAED-47C2-AE79-CE1AC2A5FADC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{43019C9D-658A-461D-8734-3B83D0B815E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{43019C9D-658A-461D-8734-3B83D0B815E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{43019C9D-658A-461D-8734-3B83D0B815E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{43019C9D-658A-461D-8734-3B83D0B815E9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{93A8F90D-6753-4BDF-9FF3-54EAA0B856A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{93A8F90D-6753-4BDF-9FF3-54EAA0B856A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93A8F90D-6753-4BDF-9FF3-54EAA0B856A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
