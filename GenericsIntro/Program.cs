@@ -10,10 +10,6 @@ namespace GenericsIntro
             isimler.Add("Engin");
             isimler.Add("Oğuzhan");
             isimler.Add("Mustafa");
-
-           
-
-
         }
     }
 }
